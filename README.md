@@ -1,4 +1,3 @@
-Flask==2.2.5
-Pillow==9.5.0
-gunicorn==20.1.0
-opencv-python-headless==4.8.1.78
+# Image Tools Web App
+Compress, convert, remove background, and create PDF files from images.
+Built with Python Flask.
